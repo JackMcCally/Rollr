@@ -4,7 +4,7 @@
   "description": "An advanced bot that should be mainly used for moderation, but does include some fun commands.",
   "main": "rollr.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "main": "rollr.js"
   },
   "repository": {
     "type": "git",
